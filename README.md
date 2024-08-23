@@ -11,10 +11,10 @@ Feel free to explore the code, experiment, and follow along. Your feedback and c
 - **Project Links:** Check out live demos of the projects on my [MishraShardendu22](https://github.com/MishraShardendu22).
 
 ## 🛠️ Technologies Used
-- **React.js:** The core library for building user interfaces.
-- **Vite:** A modern build tool that provides a faster development experience.
-- **CSS:** Styling and layout for the projects.
-- **HTML:** The markup language used for structuring content.
+- **React.js** ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg): The core library for building user interfaces.
+- **Vite** ![Vite Logo](https://vitejs.dev/logo.svg): A modern build tool that provides a faster development experience.
+- **CSS** ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg): Styling and layout for the projects.
+- **HTML** ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg): The markup language used for structuring content.
 
 ## 🔗 Get in Touch
 Feel free to reach out if you have any questions or suggestions!
