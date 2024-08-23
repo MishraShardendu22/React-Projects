@@ -16,5 +16,6 @@ Feel free to explore the code, experiment, and follow along. Your feedback and c
 - **CSS**  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS Logo" width="40" height="40">  :  Styling and layout for the projects.
 - **HTML**  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="40" height="40">  :  The markup language used for structuring content.
 
-## 🔗 Get in Touch
-Feel free to reach out if you have any questions or suggestions!
+# Project 
+## Introduction to My Github :  
+1.) [React Intro](https://intro-react-shardendu-mishra.netlify.app/)
