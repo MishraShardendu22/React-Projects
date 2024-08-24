@@ -18,5 +18,9 @@ Feel free to explore the code, experiment, and follow along. Your feedback and c
 
 
 ## 📝 Projects
+
 ### 1️⃣ Introduction to My GitHub
 - **[Intro Page Using React](https://intro-react-shardendu-mishra.netlify.app/)** 🚀: A React-based introduction page showcasing my GitHub projects and achievements. Check it out to see my work in action!
+
+### 2️⃣ Background Color Changer
+- **[Background Color Changer](https://background-color-changer-react-mishra.netlify.app/)** 🚀: A React-based project that allows users to dynamically change the background color. Explore this interactive demo to see the color-changing functionality!
