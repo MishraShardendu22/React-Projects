@@ -15,7 +15,7 @@ How to create a react project using Vite :
     "npm i" it to install all you need
 
 Difference between "Create React App" and "Vite"
-
+ 
 1.) CRA is slower where as Vite is faster as it bundles it before serving where as Vite bundles only when it is necessary.   
 2.) CRA is opinionated it doesnt give a choice when it comes to library rather enforces what to use Vite doesent do that instead it allows you to choose whatever you want.
 3.) In CRA due to React scripts a script file is ejected which does all the work.
