@@ -17,8 +17,9 @@ function App() {
       str += "1234567890";
     }
     if(charAlwd){
-      str += "1234567890-=";
+      str += "!@#$%&*()_+-=";
     }
+
 
     for(let i=0;i<length;i++){
       let idx = Math.floor(Math.random()*(str.length) + 1);
