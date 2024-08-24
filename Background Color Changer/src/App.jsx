@@ -5,7 +5,7 @@ function App() {
   const [clr, setClr] = useState("olive");
 
   return (
-    <div className="flex flex-col items-center h-screen bg-sky-800" style={{ backgroundColor: clr }}>
+    <div className="flex flex-col items-center h-screen bg-sky-800" style={{ backgroundColor : clr }}>
       <header className="flex justify-center p-5 w-full">
         <div className="inline-flex justify-center gap-4 border-black">
           <Btn onClick={() => setClr("green")} bgColor="green" textColor="black" />
