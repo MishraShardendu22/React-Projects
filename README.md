@@ -1,6 +1,6 @@
 # React-Learning ⚛️🚀
 
-Welcome to my React journey! This repository is dedicated to documenting my progress as I dive deep into React.js and build exciting projects along the way. It's all about mastering the art of modern web development, one component at a time. 
+Welcome to my React journey! This repository is dedicated to documenting my progress as I dive deep into React.js and build exciting projects along the way. It's all about mastering the art of modern web development, one component at a time.
 
 Feel free to explore the code, experiment, and follow along. Your feedback and contributions are always welcome! Let's build something epic together.
 
@@ -11,11 +11,10 @@ Feel free to explore the code, experiment, and follow along. Your feedback and c
 - **Project Links:** Check out live demos of the projects on my [MishraShardendu22](https://github.com/MishraShardendu22).
 
 ## 🛠️ Technologies Used
-- **React.js**  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="40" height="40">  :  The core library for building user interfaces.
-- **Vite**  <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="40" height="40">  :  A modern build tool that provides a faster development experience.
-- **CSS**  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS Logo" width="40" height="40">  :  Styling and layout for the projects.
-- **HTML**  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="40" height="40">  :  The markup language used for structuring content.
-
+- **React.js** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="40" height="40">: The core library for building user interfaces.
+- **Vite** <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="40" height="40">: A modern build tool that provides a faster development experience.
+- **CSS** <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS Logo" width="40" height="40">: Styling and layout for the projects.
+- **HTML** <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="40" height="40">: The markup language used for structuring content.
 
 ## 📝 Projects
 
@@ -24,3 +23,6 @@ Feel free to explore the code, experiment, and follow along. Your feedback and c
 
 ### 2️⃣ Background Color Changer
 - **[Background Color Changer](https://background-color-changer-react-mishra.netlify.app/)** 🚀: A React-based project that allows users to dynamically change the background color. Explore this interactive demo to see the color-changing functionality!
+
+### 3️⃣ Random Password Generator
+- **[Random Password Generator](https://random-password-shardendu-mishra.netlify.app/)** 🚀: A React-based project that generates random passwords based on user preferences. Check out this fun project to see the generator in action!
