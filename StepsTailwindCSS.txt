@@ -1,0 +1,21 @@
+1.) Install Tailwind
+    npm install -D tailwindcss postcss autoprefixer
+    npx tailwindcss init -p
+
+2.) Add in content
+    /** @type {import('tailwindcss').Config} */
+    export default {
+    content: [
+        "./index.html",
+        "./src/**/*.{js,ts,jsx,tsx}",
+    ],
+    theme: {
+        extend: {},
+    },
+    plugins: [],
+    }
+
+3.) In index.css
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
