@@ -7,7 +7,7 @@ function App() {
   const [toCurrency, setToCurrency] = useState("INR");
   const [rateData, setRateData] = useState({});
   const [convertedAmount, setConvertedAmount] = useState(0);
-  const [amount, setAmount] = useState(1);
+  const [amount, setAmount] = useState(0);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
 
