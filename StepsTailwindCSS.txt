@@ -19,3 +19,19 @@
     @tailwind base;
     @tailwind components;
     @tailwind utilities;
+
+
+############################################
+
+used to fetch json data from an api call
+1.) Set up Axios 
+    npm i axios
+
+############################################
+
+used to make pseudo multi page web site where header and footer is constant
+1.) Set up React Router DOM
+    npm i react-router-dom
+
+############################################
+
