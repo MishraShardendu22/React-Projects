@@ -1,4 +1,4 @@
-# React-Learning ⚛️🚀
+# React-Projects ⚛️🚀
 
 Welcome to my React journey! This repository is dedicated to documenting my progress as I dive deep into React.js and build exciting projects along the way. It's all about mastering the art of modern web development, one component at a time.
 
@@ -16,13 +16,21 @@ Feel free to explore the code, experiment, and follow along. Your feedback and c
 - **CSS** <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS Logo" width="40" height="40">: Styling and layout for the projects.
 - **HTML** <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="40" height="40">: The markup language used for structuring content.
 
+
 ## 📝 Projects
 
 ### 1️⃣ Introduction to My GitHub
-- **[Intro Page Using React](https://intro-react-shardendu-mishra.netlify.app/)** 🚀: A React-based introduction page showcasing my GitHub projects and achievements. Check it out to see my work in action!
+- **[Intro Page Using React](https://intro-react-shardendu-mishra.netlify.app/)** 🚀  
+  A React-based introduction page showcasing my GitHub projects and achievements. Check it out to see my work in action!
 
 ### 2️⃣ Background Color Changer
-- **[Background Color Changer](https://background-color-changer-react-mishra.netlify.app/)** 🚀: A React-based project that allows users to dynamically change the background color. Explore this interactive demo to see the color-changing functionality!
+- **[Background Color Changer](https://background-color-changer-react-mishra.netlify.app/)** 🚀  
+  A React-based project that allows users to dynamically change the background color. Explore this interactive demo to see the color-changing functionality!
 
 ### 3️⃣ Random Password Generator
-- **[Random Password Generator](https://random-password-shardendu-mishra.netlify.app/)** 🚀: A React-based project that generates random passwords based on user preferences. Check out this fun project to see the generator in action!
+- **[Random Password Generator](https://random-password-shardendu-mishra.netlify.app/)** 🚀  
+  A React-based project that generates random passwords based on user preferences. Check out this fun project to see the generator in action!
+
+### 4️⃣ Exchange Rate Converter
+- **[Exchange Rate Converter](https://exchange-rate-shardendu-mishra.netlify.app/)** 🚀  
+  A React-based project that helps users convert currencies based on live exchange rates. Try out this project to see the conversion in action!
