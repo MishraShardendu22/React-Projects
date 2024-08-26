@@ -34,3 +34,8 @@ Feel free to explore the code, experiment, and follow along. Your feedback and c
 ### 4️⃣ Exchange Rate Converter
 - **[Exchange Rate Converter](https://exchange-rate-shardendu-mishra.netlify.app/)** 🚀  
   A React-based project that helps users convert currencies based on live exchange rates. Try out this project to see the conversion in action!
+
+### 5️⃣ Toggle Theme Changer
+- **[Toggle Theme Changer](https://theme-changer-shardendu-mishra.netlify.app/)** 🚀  
+  A React-based project that allows users to switch between light and dark modes using a simple toggle switch. This project uses the Context API to manage the theme state and provide a seamless user experience. Check it out to see how it changes themes in real-time!
+
