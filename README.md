@@ -42,3 +42,6 @@ Feel free to explore the code, experiment, and follow along. Your feedback and c
 - **[To-Do List Manager](https://todo-list-shardendu-mishra.netlify.app/)** 🚀  
   A React-based to-do list manager that helps users organize their tasks. The project features task creation, editing, completion toggling, and deletion, all while persisting data using the Context API and `localStorage`. Check out this project to experience efficient task management!
 
+### 7️⃣ To-Do List Redux
+- **[To-Do List Redux](https://todo-redux-shardendu-mishra.netlify.app/)** 🚀  
+  A React-based to-do list manager that uses Redux for state management. This project showcases how to handle complex state interactions and maintain global state effectively. Explore this project to see Redux in action!
