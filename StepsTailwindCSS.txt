@@ -1,5 +1,6 @@
 // Prefer online only 
 
+
 1.) Install Tailwind
     npm install -D tailwindcss postcss autoprefixer
     npx tailwindcss init -p
